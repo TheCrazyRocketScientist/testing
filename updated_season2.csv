@@ -1,4 +1,4 @@
-name,price,role,balls_faced,weighted_avg_sr_lastThird,weighted_avg_rbw_lastThird,weighted_avg_hh_lastThird,weighted_avg_dot_pct_lastThird,weighted_avg_bound_pct_lastThird,runs,30s,50s,ducks,6s,4s,3s,2s,1s
+name,price,role,balls_faced,weighted_avg_sr,weighted_avg_rbw,weighted_avg_hard_hitter,weighted_avg_dot_percent,weighted_avg_bound_percent,runs,30s,50s,ducks,6s,4s,3s,2s,1s
 A Capsey,0.75,2,147,67.2300722,0.298800321,0.448200481,66.3849639,11.20501203,182,2,1,2,6,30,0,3,66
 A Gardner,3.2,2,86,123.2699019,0.504714559,0.821799346,40.69203923,18.21799346,93,2,0,1,3,14,0,1,44
 A Sutherland,2,2,14,66.66666667,0.25,0.444444444,77.77777778,11.11111111,21,0,0,0,1,3,0,1,7

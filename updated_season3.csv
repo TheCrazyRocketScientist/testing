@@ -1,4 +1,4 @@
-name,price,role,balls_faced,weighted_avg_sr,weighted_avg_rbw,weighted_avg_hard_hitter,weighted_avg_dot_pct_lastThird,weighted_avg_bound_pct_lastThird,runs,30s,50s,ducks,6s,4s,3s,2s,1s
+name,price,role,balls_faced,weighted_avg_sr,weighted_avg_rbw,weighted_avg_hard_hitter,weighted_avg_dot_percent,weighted_avg_bound_percent,runs,30s,50s,ducks,6s,4s,3s,2s,1s
 A Gardner,3.2,2,110,126.0719533,0.429820514,0.935274647,51.18326709,16.2722443,183,0,3,0,15,16,0,4,51
 A Sutherland,2,2,55,133.3333333,0.833333333,0.666666667,41.66666667,16.66666667,64,1,0,0,1,6,0,6,37
 AB Kaur,0.1,2,29,145.5118837,0.875288764,0.717166371,26.66666667,16.32023177,26,1,0,0,2,6,1,1,29
